@@ -103,7 +103,7 @@ Después de haber elaborado los respectivos cálculos con el osciloscopio y el m
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-El capacitor acumula energía por lo que se mantiene con carga y la bobina no guarda carga por lo que actúa como un cortocircuito
+El capacitor acumula energía por lo que se mantiene con carga y la bobina no guarda carga por lo que actúa como un circuito abierto.
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
