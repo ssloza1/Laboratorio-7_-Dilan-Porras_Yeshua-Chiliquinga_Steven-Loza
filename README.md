@@ -95,7 +95,7 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
-<img width="287" alt="image" src="https://user-images.githubusercontent.com/104999420/184920045-e38b3dd0-e006-4e47-8098-d03768ca5bc1.png">
+<img width="475" alt="image" src="https://user-images.githubusercontent.com/104999420/185004654-9e7ce162-4211-4ad2-8e1f-5ab51aa0809c.png">
 
 Después de haber elaborado los respectivos cálculos con el osciloscopio y el multímetro llegamos a comparar los datos y se observa que en un capacitor cuando la frecuencia es de 0Hz si existe un voltaje y en un inductor con frecuencia de 0Hz el voltaje es de cero y esto sucede porque el capacitor guarda carga y se va descargando de apoco.
 
