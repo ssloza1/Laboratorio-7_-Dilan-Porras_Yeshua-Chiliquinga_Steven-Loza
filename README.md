@@ -44,6 +44,9 @@ FECHA
 
 ![image](https://user-images.githubusercontent.com/104999420/184917290-c5af3015-697d-4121-8f4b-36b932b12723.png)
 
+![image](https://user-images.githubusercontent.com/105320981/184926996-320b43ff-a9f7-4c3e-b1df-776b7c2045df.png)
+
+
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000. Anote los valores pico de las ondas observadas.
