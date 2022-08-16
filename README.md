@@ -119,6 +119,8 @@ Se define como el valor de una corriente continua que al circular por una determ
 
 ## 4. VIDEO:
 
+https://youtu.be/m-H-Y2GskDs
+
 ## 5. CONCLUSIONES:
 
 •	La teoria de transferencia maxima de potencia comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
